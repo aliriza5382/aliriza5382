@@ -1,8 +1,8 @@
 Merhaba, ben Ali Rıza Şahin!
 
-Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Mobil uygulama geliştirme ve IoT projeleri üzerine çalışıyorum.
+Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Mobil uygulama geliştirme ve Veri analizi üzerine çalışıyorum.
 
-- Flutter, Firebase, Python, Wokwi, Go ve MSSQL ile projeler geliştiriyorum.
-- İlgi alanlarım: IoT ve Mobil Uygulamalar.
+- Flutter, Firebase, Python, Go ve MSSQL ile projeler geliştiriyorum.
+- İlgi alanlarım: Veri Analizi ve Mobil Uygulamalar.
 
 Bana ulaş: [E-posta](sahinaliriza888@gmail.com)
