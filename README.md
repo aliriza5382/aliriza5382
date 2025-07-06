@@ -1,4 +1,4 @@
-Merhaba, ben Ali Rıza Şahin!
+Merhaba, ben Ali Rıza ŞAHİN.
 
 Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Mobil uygulama geliştirme ve veri analizi üzerine çalışıyorum.
 
