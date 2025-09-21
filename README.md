@@ -7,4 +7,4 @@ Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Mobil uygulama geliştirme 
 
 E-posta: [sahinaliriza888@gmail.com](mailto:sahinaliriza888@gmail.com)
 
-Linkedin: https://www.linkedin.com/in/ali-r%C4%B1za-%C5%9Fahin-510026255/
+LinkedIn: https://www.linkedin.com/in/ali-r%C4%B1za-%C5%9Fahin-510026255/
